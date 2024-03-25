@@ -1,3 +1,5 @@
+# Activity Sensor APP using Kotlin
+
 This project was a part of an Assignment in a course Called Mobile Commerce - Android Development With Kotlin
 
 The objective of this assignment is to gain experience in using the android device sensors and SQLLITE.
