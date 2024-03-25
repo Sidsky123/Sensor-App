@@ -13,3 +13,5 @@ An optional bonus mark:
 when the user is walking or in vehicle show his/her continuous movement on the map.
 
 Our solution does all of the above listed tasks, and was successfully accepted.
+
+HOW TO RUN: If you want to try the solution for yourself, you can clone this git repo in Android Studio and you should be able to run once gradle sync is completed
